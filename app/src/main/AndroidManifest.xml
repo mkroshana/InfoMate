@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.uob.infomate">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera.any" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.InfoMate">
+        <activity
+            android:name=".ScanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Locations.TempleOfToothActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UserAuthentication.SignupActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Locations.NABridgeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Locations.SigiriyaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UserAuthentication.ProfileActivity"
+            android:exported="true" />
+        <activity android:name=".ChatBot.ChatBotActivity" />
+        <activity android:name=".UserAuthentication.PasswordResetActivity" />
+        <activity android:name=".Testing.TestActivity" />
+        <activity android:name=".MainSplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.nfc.action.NDEF_DISCOVERY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UserAuthentication.LoginActivity" />
+    </application>
+
+</manifest>

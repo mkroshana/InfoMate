@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InfoMate</string>
+    <string name="AppDescription"><![CDATA[Your Personal Virtual Guide for Museums & Historical Places]]></string>
+    <string name="introduction">Hi there !, I am Infomate. To get started, please turn on NFC functionality of your device and put your device near the Scan here sign</string>
+    <string name="Sigiriya"><![CDATA[Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale
+    District near the town of Dambulla in the Central Province, Sri Lanka.
+    \n\n
+    The name refers to a site of historical and archaeological significance that is dominated by a massive column of rock around 180 metres (590 ft) high.
+    According to the ancient Sri Lankan chronicle the Culavamsa, this site was selected by King Kashyapa (477 – 495 AD) for his new capital.
+    \n\n
+    He built his palace on the top of this rock and decorated its sides with colourful frescoes.
+    On a small plateau about halfway up the side of this rock he built a gateway in the form of an enormous lion.
+    ]]></string>
+    <string name="NABridge"><![CDATA[The Nine Arch Bridge also called the Bridge in the Sky, is a viaduct bridge in Sri Lanka.
+    It is one of the best examples of colonial-era railway construction in the country.
+    The construction of the bridge is generally attributed to a local Ceylonese builder, P. K. Appuhami, in consultation with British engineers.
+    The chief designer and project manager of the upcountry railway line of Ceylon project was D. J. Wimalasurendra,
+    a distinguished Ceylonese engineer and inventor. The designer of the viaduct was Harold Cuthbert Marwood of
+    Railway Construction Department of Ceylon Government Railway. The 1923 report titled "Construction of a Concrete Railway Viaduct in Ceylon"
+    published by the Engineering Association of Ceylon has details of all the records including the plans and drawings.]]></string>
+    <string name="TempleOfTooth"><![CDATA[Temple of the Sacred Tooth Relic commonly known as the
+     ශ්‍රී දළදා මාළිගාව (Glorious Tooth Temple), is a Buddhist temple in Kandy, Sri Lanka.
+     It is located in the royal palace complex of the former Kingdom of Kandy,
+     which houses the relic of the tooth of the Buddha. Since ancient times,
+     the relic has played an important role in local politics because it is believed that
+     whoever holds the relic holds the governance of the country. The relic was historically held by Sinhalese kings.
+     The temple of the tooth is a World Heritage Site mainly due to the temple and the relic.
+    ]]></string>
+</resources>

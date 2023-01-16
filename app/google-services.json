@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053716096320",
+    "project_id": "infomate-6a4b7",
+    "storage_bucket": "infomate-6a4b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053716096320:android:89c2137dc660ae1b8686a5",
+        "android_client_info": {
+          "package_name": "com.uob.infomate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053716096320-p3inl3jsgu9vi0msve8ocsrtq93lm7ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNV-Pov4eXQRB5wsSON1iCN-6sPsR-bv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053716096320-p3inl3jsgu9vi0msve8ocsrtq93lm7ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
